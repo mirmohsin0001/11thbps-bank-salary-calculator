@@ -35,7 +35,7 @@ function App() {
       <div className="container mt-5 px-5">
         <h1 className="text-center mb-0">Salary Calculator</h1>
         <p className="text-muted text-center mb-4">
-          12th Bipartite Settlement (Workmen)
+          11th Bipartite Settlement (Clerical)
         </p>
         <SalaryInput
           onSalaryChange={handleSalaryChange}
