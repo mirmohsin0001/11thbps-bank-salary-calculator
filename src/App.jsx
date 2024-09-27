@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 
 function App() {
   const [basicSalary, setBasicSalary] = useState(17900); // Stage 4 selected by default
-  const [daRatePercent, setDaRatePercent] = useState(48.51); // Initial DA rate in percentage
+  const [daRatePercent, setDaRatePercent] = useState(50.12); // Initial DA rate in percentage
   const [isCalculated, setIsCalculated] = useState(false); // Define isCalculated state
   const [error, setError] = useState(false); // Define error state
 
